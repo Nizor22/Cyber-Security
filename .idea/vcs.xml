@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../COVID19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-Django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-GUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Python-Web-Scraping" vcs="Git" />
+  </component>
+</project>

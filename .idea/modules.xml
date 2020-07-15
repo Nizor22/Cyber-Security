@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../COVID19/.idea/COVID19.iml" filepath="$PROJECT_DIR$/../COVID19/.idea/COVID19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cyber-Security.iml" filepath="$PROJECT_DIR$/.idea/Cyber-Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Learning-Python/.idea/Learning-Python.iml" filepath="$PROJECT_DIR$/../Learning-Python/.idea/Learning-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Automation/.idea/Python-Automation.iml" filepath="$PROJECT_DIR$/../Python-Automation/.idea/Python-Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Django/.idea/Python-Django.iml" filepath="$PROJECT_DIR$/../Python-Django/.idea/Python-Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-GUI/.idea/Python-GUI.iml" filepath="$PROJECT_DIR$/../Python-GUI/.idea/Python-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python-Web-Scraping/.idea/Python-Web-Scraping.iml" filepath="$PROJECT_DIR$/../Python-Web-Scraping/.idea/Python-Web-Scraping.iml" />
+    </modules>
+  </component>
+</project>
