@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Cyber-Security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Cyber-Security.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ch1/1-vulnScanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch1/1-vulnScanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch1/2-passwdCrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch1/2-passwdCrack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch1/unzip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch1/unzip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +100,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just some preference files from mac" />
