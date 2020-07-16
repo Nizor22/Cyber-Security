@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="git files">
-      <change afterPath="$PROJECT_DIR$/Dictionary Attack/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vulnerability Scanner/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zip Cracker/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/networking/README.md" afterDir="false" />
+    <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="Added Readme files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/networking/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/networking/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networking/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/networking/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594911005262</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Readme files">
+      <created>1594911978046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594911978046</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +131,8 @@
     <MESSAGE value="Added a ReadMe file" />
     <MESSAGE value="Added comments and placed them in the folders" />
     <MESSAGE value="git files" />
-    <option name="LAST_COMMIT_MESSAGE" value="git files" />
+    <MESSAGE value="Added Readme files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Readme files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="355" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594911328076">

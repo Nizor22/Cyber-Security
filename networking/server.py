@@ -27,6 +27,7 @@ def bind_socket():
 		bind_socket()
 
 
+# Accepts any incoming connection requests
 def socket_accept():
 	conn, address = s.accept()
 	print("Connection has been established! | IP " + address[0] + " | Port" + str(address[1]))
@@ -54,4 +55,5 @@ def main():
 	socket_accept()
 
 
-main()
+if __name__ == '__main__':
+	main()
