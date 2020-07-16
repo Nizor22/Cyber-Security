@@ -19,12 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Cyber-Security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Cyber-Security.iml" afterDir="false" />
+    <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="git files">
+      <change afterPath="$PROJECT_DIR$/Dictionary Attack/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vulnerability Scanner/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zip Cracker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/networking/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch1/1-vulnScanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch1/1-vulnScanner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch1/2-passwdCrack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch1/2-passwdCrack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch1/unzip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch1/unzip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +44,19 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learning-Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ch1/Zip Cracker" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Learning-Python" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Python-GUI" />
-      <recent name="$PROJECT_DIR$/../COVID19" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Ch1/Vulnerability Scanner" />
+      <recent name="$PROJECT_DIR$/Ch1/Dictionary Attack" />
+      <recent name="$PROJECT_DIR$/Ch1/Zip Cracker" />
+      <recent name="$PROJECT_DIR$/Ch1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ch1/Zip Cracker" />
+      <recent name="$PROJECT_DIR$/../Learning-Python" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -87,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594842580371</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added comments and placed them in the folders">
+      <created>1594910986089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594910986089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git files">
+      <created>1594911005262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594911005262</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +123,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just some preference files from mac" />
     <MESSAGE value="Added a ReadMe file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a ReadMe file" />
+    <MESSAGE value="Added comments and placed them in the folders" />
+    <MESSAGE value="git files" />
+    <option name="LAST_COMMIT_MESSAGE" value="git files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594911328076">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="355" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.738@0.23.1280.738" timestamp="1594911328076" />
+    <state x="315" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1594911108329">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="315" y="85" width="670" height="676" key="search.everywhere.popup/0.23.1280.738@0.23.1280.738" timestamp="1594911108329" />
   </component>
 </project>
