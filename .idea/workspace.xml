@@ -19,18 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="Added comments and a README file">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python-Automation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-Automation/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="3240786c-5ae9-4cf7-bc13-f305177e384f" name="Default Changelist" comment="moved the README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Learning-Python" />
   </component>
   <component name="ProjectId" id="1ejjjcIt7KGLIiy6GH7JlDcoFd7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,11 +42,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../COVID19/Attendance_Automation" />
       <recent name="$PROJECT_DIR$/nmap" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Ch1/Vulnerability Scanner" />
       <recent name="$PROJECT_DIR$/Ch1/Dictionary Attack" />
-      <recent name="$PROJECT_DIR$/Ch1/Zip Cracker" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Ch1/Zip Cracker" />
@@ -117,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594913070160</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added comments and a README file">
+      <created>1594913565005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594913565005</updated>
+    </task>
+    <task id="LOCAL-00009" summary="moved the README">
+      <created>1594913686623</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594913686623</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +149,8 @@
     <MESSAGE value="git files" />
     <MESSAGE value="Added Readme files" />
     <MESSAGE value="Added comments and a README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added comments and a README file" />
+    <MESSAGE value="moved the README" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved the README" />
   </component>
   <component name="WindowStateProjectService">
     <state x="355" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594911328076">
